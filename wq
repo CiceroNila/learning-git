@@ -1,0 +1,23 @@
+[33mcommit a84d1adaa0a957de9f8b0963c76bb8451230995b[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: ”Cicero <ciceronila@yahoo.com>
+Date:   Mon Apr 24 20:52:50 2023 +0300
+
+    added main.go with empty main function vrem
+
+[33mcommit 0bf5c06a96a733afe7dc600e6b6585209edc1d83[m
+Author: ”Cicero <ciceronila@yahoo.com>
+Date:   Sun Apr 23 16:07:13 2023 +0300
+
+    added body{} in main.css
+
+[33mcommit f5495c6f944293c5abc6ee80153e2baaca3356e2[m
+Author: ”Cicero <ciceronila@yahoo.com>
+Date:   Sun Apr 23 15:32:33 2023 +0300
+
+    added console.log in js
+
+[33mcommit d02f81e98ecb09aa85bda14587a53dc3954217a5[m
+Author: ”Cicero <ciceronila@yahoo.com>
+Date:   Sun Apr 23 14:55:53 2023 +0300
+
+    bootstrap project acum
